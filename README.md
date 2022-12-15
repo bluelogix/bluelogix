@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cynthia</h1>
 <h3 align="center">Creative developer and instructor who loves to help others learn new things. I am passionate about helping people find their creative voice and making it possible for them to share their work with the world.</h3>
 
-- 👨‍💻 All of my projects are available at [cynthiar.dev](cynthiar.dev)
+- 👨‍💻 All of my projects are available at <a href="cynthiar.dev" target="blank">cynthiar.dev</a>
 
-- 📝 I regularly write tutorials on [gensketch.com](gensketch.com)
+- 📝 I regularly write creative coding tutorials on <a href="gensketch.com" target="blank">gensketch.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
